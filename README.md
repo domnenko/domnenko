@@ -1,6 +1,4 @@
 # Gleb Domnenko, Ph.D.
-I am a research Economist interested in innovation, competition, and markets. I currently work in forensic finance investigating white collar crime. This place is reserved for my public projects and educational materials.
+Gleb Domnenko is an economist who specializes in securities and finance. He has extensive knowledge in structured finance, derivatives, fixed income products, cryptocurrencies, and blockchain. Additionally, Dr. Domnenko has experience in white collar crime investigations and funds recovery.
 
-Feel free to contact me if you need clarification regarding anything here.
-
-Gleb
+Dr. Domnenko uses economic and accounting methods to assist clients on cases of varying complexity. He has worked with federal and state government agencies and private clients. At NERA, he supports senior experts in preparing for deposition and writing reports.
